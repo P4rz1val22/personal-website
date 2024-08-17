@@ -1,3 +1,16 @@
+# Personal Website
+
+This is Luis Sarmiento's personal website, compiling his education, passions, work experience and personal projects. 
+
+## Contact Links
+- [LinkedIn](https://www.linkedin.com/in/luis-enrique-sarmiento/)
+- [GitHub](https://github.com/P4rz1val22)
+- [Website]()
+
+
+
+## –––––––– React Stuff ––––––––
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
